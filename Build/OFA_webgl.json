@@ -1,0 +1,16 @@
+{
+"companyName": "World48",
+"productName": "Owls Fly Away",
+"productVersion": "0.83",
+"dataUrl": "OFA_webgl.data.unityweb",
+"wasmCodeUrl": "OFA_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "OFA_webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.7f1"
+}
