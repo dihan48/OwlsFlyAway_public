@@ -1,7 +1,7 @@
 {
 "companyName": "Dihan48",
 "productName": "Owls Fly Away",
-"productVersion": "0.87",
+"productVersion": "0.891",
 "dataUrl": "OFA_webgl.data.unityweb",
 "wasmCodeUrl": "OFA_webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "OFA_webgl.wasm.framework.unityweb",
