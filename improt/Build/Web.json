@@ -1,7 +1,7 @@
 {
 "companyName": "Dihan48",
 "productName": "ImProt",
-"productVersion": "0.1",
+"productVersion": "0.12",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "Web.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.0f5"
+"unityVersion": "2019.3.11f1"
 }
